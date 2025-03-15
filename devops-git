@@ -23,6 +23,9 @@ how this work this command what to do
   18 git status
   19 git commit -m "this first commit"
   20 git status
+
+
+this is a github through changed
   21 git push origin master
   22 git push origin master
   23 git remot set-url origin ...
