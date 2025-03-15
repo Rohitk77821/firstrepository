@@ -1,3 +1,49 @@
 this is first devops file 
 this is first file and foldr
 how this work this command what to do 
+
+ Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\rohit\AppData\Local\Programs\Microsoft VS Code\resources\app\out... 
+   2 ls
+   3 git init
+   4 git status
+   5 git add .\devops-git
+   6 git status
+   7 git commit -m "first file"
+   8 git remote add origin it remote -v
+  10 git remote set-url origin ..
+  11 git remote -v
+  12 ls
+  13 git status
+  14 git push origin master
+  15 git status
+  16 git status
+  17 git add .\devops-git
+  18 git status
+  19 git commit -m "this first commit"
+  20 git status
+  21 git push origin master
+  22 git push origin master
+  23 git remot set-url origin ...
+  24 git remote set-url origin 
+  25 git remote -v
+  26 git push origin master
+  27 git status
+  28 cd ..
+  29 ls
+  30 cp rohit.html '.\New folder'
+  31 cd '.\New folder'
+  32 lls
+  33 ls
+  34 git status
+  35 git add .\rohit.html
+  36 ls
+  37 git status
+  38 git commit -m .\rohit.html
+  39 git push origin master
+  40 git status
+  41 git add .\python.py
+  42 git status
+  43 git commit -m "python is first file"
+  44 git push origin master
